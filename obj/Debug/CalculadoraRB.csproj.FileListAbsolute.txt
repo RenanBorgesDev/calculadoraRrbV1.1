@@ -1,0 +1,15 @@
+C:\Users\Usuario\OneDrive\Área de Trabalho\Projetos\C#\CalculadoraRB\CalculadoraRB\bin\Debug\CalculadoraRB.exe.config
+C:\Users\Usuario\OneDrive\Área de Trabalho\Projetos\C#\CalculadoraRB\CalculadoraRB\bin\Debug\CalculadoraRB.exe
+C:\Users\Usuario\OneDrive\Área de Trabalho\Projetos\C#\CalculadoraRB\CalculadoraRB\bin\Debug\CalculadoraRB.pdb
+C:\Users\Usuario\OneDrive\Área de Trabalho\Projetos\C#\CalculadoraRB\CalculadoraRB\obj\Debug\CalculadoraRB.csproj.AssemblyReference.cache
+C:\Users\Usuario\OneDrive\Área de Trabalho\Projetos\C#\CalculadoraRB\CalculadoraRB\obj\Debug\CalculadoraRB.csproj.SuggestedBindingRedirects.cache
+C:\Users\Usuario\OneDrive\Área de Trabalho\Projetos\C#\CalculadoraRB\CalculadoraRB\obj\Debug\CalculadoraRB.Form1.resources
+C:\Users\Usuario\OneDrive\Área de Trabalho\Projetos\C#\CalculadoraRB\CalculadoraRB\obj\Debug\CalculadoraRB.Properties.Resources.resources
+C:\Users\Usuario\OneDrive\Área de Trabalho\Projetos\C#\CalculadoraRB\CalculadoraRB\obj\Debug\CalculadoraRB.csproj.GenerateResource.cache
+C:\Users\Usuario\OneDrive\Área de Trabalho\Projetos\C#\CalculadoraRB\CalculadoraRB\obj\Debug\CalculadoraRB.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\OneDrive\Área de Trabalho\Projetos\C#\CalculadoraRB\CalculadoraRB\obj\Debug\CalculadoraRB.exe
+C:\Users\Usuario\OneDrive\Área de Trabalho\Projetos\C#\CalculadoraRB\CalculadoraRB\obj\Debug\CalculadoraRB.pdb
+C:\Users\Usuario\OneDrive\Área de Trabalho\Projetos\C#\CalculadoraRB\CalculadoraRB\bin\Debug\CalculadoraRB.exe.manifest
+C:\Users\Usuario\OneDrive\Área de Trabalho\Projetos\C#\CalculadoraRB\CalculadoraRB\bin\Debug\CalculadoraRB.application
+C:\Users\Usuario\OneDrive\Área de Trabalho\Projetos\C#\CalculadoraRB\CalculadoraRB\obj\Debug\CalculadoraRB.exe.manifest
+C:\Users\Usuario\OneDrive\Área de Trabalho\Projetos\C#\CalculadoraRB\CalculadoraRB\obj\Debug\CalculadoraRB.application
